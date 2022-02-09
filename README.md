@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://twitter.com/amfastafboi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amfastafboi" height="30" width="40" /></a>
 <a href="https://instagram.com/amfastafboi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amfastafboi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc7zgtlwfa-kt-94b_tbk1aw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc7zgtlwfa-kt-94b_tbk1aw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
