@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **amfastafboi@gmail.com**
 
-- ⚡ Fun fact **I love to play Football and Edit Videos.**
+- ⚡ Fun fact **I love to play Football and edit videos.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
